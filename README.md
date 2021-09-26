@@ -1,11 +1,6 @@
-## Fei's GitHub Page
+# Jekyll GitBook
 
-Hi, my name is Fei. Nice to meet you!
-This page will be a place to share my ideas and notes.
-
-### Linear Algebra
-[Eigenvectors and Eigenvalues](https://www.3blue1brown.com/lessons/eigenvalues)
-
+Make Jelly site have a GitBook look!
 
 ## Demo
 
@@ -59,3 +54,13 @@ Copyright 2019 Tao He.
 [2]: https://pages.github.com/themes
 [3]: https://github.com/sighingnow/jekyll-gitbook/fork
 [4]: https://github.com/allejo/jekyll-toc
+
+
+
+## Fei's GitHub Page
+
+Hi, my name is Fei. Nice to meet you!
+This page will be a place to share my ideas and notes.
+
+### Linear Algebra
+[Eigenvectors and Eigenvalues](https://www.3blue1brown.com/lessons/eigenvalues)
