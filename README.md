@@ -11,3 +11,6 @@ This page will be a place to share my ideas, notes, and some useful links.
 
 ### Group Theory
 [Group Theory](https://www.3blue1brown.com/lessons/eulers-formula-via-group-theory)
+
+### Euler's Equation
+[Euler Equation](https://www.youtube.com/watch?v=sKtloBAuP74&t=0s&index=881&list=WL)
