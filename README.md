@@ -8,3 +8,6 @@ This page will be a place to share my ideas, notes, and some useful links.
 
 ### Calculus
 [Taylor series](https://www.3blue1brown.com/lessons/taylor-series)
+
+### Group Theory
+[Group Theory](https://www.3blue1brown.com/lessons/eulers-formula-via-group-theory)
