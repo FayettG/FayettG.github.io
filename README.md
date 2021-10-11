@@ -14,3 +14,10 @@ This page will be a place to share my ideas, notes, and some useful links.
 
 ### Euler's Equation
 [Euler Equation](https://www.youtube.com/watch?v=sKtloBAuP74&t=0s&index=881&list=WL)
+
+### Install cp2k on mac
+Step 1: install [homebrew](https://brew.sh) 
+
+Step 2: install cp2k by entering
+        
+        usr% brew install cp2k
