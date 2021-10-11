@@ -21,3 +21,5 @@ Step 1: install [homebrew](https://brew.sh)
 Step 2: install cp2k by entering
         
         usr% brew install cp2k
+        
+        ref: [install cp2k via homebrew](https://formulae.brew.sh/formula/cp2k)
