@@ -16,6 +16,8 @@ This page will be a place to share my ideas, notes, and some useful links.
 [Euler Equation](https://www.youtube.com/watch?v=sKtloBAuP74&t=0s&index=881&list=WL)
 
 ### Install cp2k on mac
+
+#### Homebrew (problem exist...not solve yet)
 Step 1: install [homebrew](https://brew.sh) 
 
 Step 2: install cp2k by entering
@@ -23,3 +25,10 @@ Step 2: install cp2k by entering
         usr% brew install cp2k
         
 ref: [install cp2k via homebrew](https://formulae.brew.sh/formula/cp2k)
+
+#### Condaforge (old version cp2k for mac)
+as list on cp2k website
+
+### Mapping RDS driver onto MAC
+[link](https://vimeo.com/302461588)
+
