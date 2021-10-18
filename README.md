@@ -32,3 +32,6 @@ as list on cp2k website
 ### Mapping RDS driver onto MAC
 [link](https://vimeo.com/302461588)
 
+### LINUX Command
+[Linux 命令详解 ./configure、make、make install 命令](https://www.cnblogs.com/tinywan/p/7230039.html)
+
