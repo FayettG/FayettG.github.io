@@ -35,3 +35,5 @@ as list on cp2k website
 ### LINUX Command
 [Linux 命令详解 ./configure、make、make install 命令](https://www.cnblogs.com/tinywan/p/7230039.html)
 
+### About Anaconda
+[有趣的理解](https://www.bilibili.com/read/cv1577540)
