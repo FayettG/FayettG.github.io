@@ -37,3 +37,4 @@ as list on cp2k website
 
 ### About Anaconda
 [有趣的理解](https://www.bilibili.com/read/cv1577540)
+[Conda安装本地包](https://zhuanlan.zhihu.com/p/107487229)
