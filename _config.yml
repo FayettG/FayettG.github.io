@@ -1,1 +1,5 @@
-
+# Build settings
+markdown: kramdown
+theme: minimal
+# Other Jekyll theme hosted on GitHub
+#remote_theme: THEME-NAME
