@@ -1,10 +1,6 @@
----
-layout: default
----
-
 ## SSH Login Tutorial
 
-# For Mac System
+### For Mac System
 
 1. Terminal
 
@@ -13,7 +9,7 @@ layout: default
     
 2. Termius
 
-# For Windows System
+### For Windows System
 
 1. Putty
     
